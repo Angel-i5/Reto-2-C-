@@ -20,9 +20,9 @@ foreach (string palabra in parrafo)
     }
 }
 
-foreach (var kvp in frecuencia)
+foreach (var parClaveValor in frecuencia)
 {
-    Console.WriteLine($"{kvp.Key}: {kvp.Value}");
+    Console.WriteLine($"{parClaveValor.Key}: {parClaveValor.Value}");
 }
 
 
