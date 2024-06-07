@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Refuerso-de-C#\Dictionary de frecuencias\Dictionary de frecuencias\bin\Debug\net8.0\Dictionary de frecuencias.exe
+C:\Users\Angel\Desktop\Refuerso-de-C#\Dictionary de frecuencias\Dictionary de frecuencias\bin\Debug\net8.0\Dictionary de frecuencias.deps.json
+C:\Users\Angel\Desktop\Refuerso-de-C#\Dictionary de frecuencias\Dictionary de frecuencias\bin\Debug\net8.0\Dictionary de frecuencias.runtimeconfig.json
+C:\Users\Angel\Desktop\Refuerso-de-C#\Dictionary de frecuencias\Dictionary de frecuencias\bin\Debug\net8.0\Dictionary de frecuencias.dll
+C:\Users\Angel\Desktop\Refuerso-de-C#\Dictionary de frecuencias\Dictionary de frecuencias\bin\Debug\net8.0\Dictionary de frecuencias.pdb
+C:\Users\Angel\Desktop\Refuerso-de-C#\Dictionary de frecuencias\Dictionary de frecuencias\obj\Debug\net8.0\Dictionary de frecuencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Refuerso-de-C#\Dictionary de frecuencias\Dictionary de frecuencias\obj\Debug\net8.0\Dictionary de frecuencias.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Refuerso-de-C#\Dictionary de frecuencias\Dictionary de frecuencias\obj\Debug\net8.0\Dictionary de frecuencias.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Refuerso-de-C#\Dictionary de frecuencias\Dictionary de frecuencias\obj\Debug\net8.0\Dictionary de frecuencias.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Refuerso-de-C#\Dictionary de frecuencias\Dictionary de frecuencias\obj\Debug\net8.0\Dictionary de frecuencias.dll
+C:\Users\Angel\Desktop\Refuerso-de-C#\Dictionary de frecuencias\Dictionary de frecuencias\obj\Debug\net8.0\refint\Dictionary de frecuencias.dll
+C:\Users\Angel\Desktop\Refuerso-de-C#\Dictionary de frecuencias\Dictionary de frecuencias\obj\Debug\net8.0\Dictionary de frecuencias.pdb
+C:\Users\Angel\Desktop\Refuerso-de-C#\Dictionary de frecuencias\Dictionary de frecuencias\obj\Debug\net8.0\Dictionary de frecuencias.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Refuerso-de-C#\Dictionary de frecuencias\Dictionary de frecuencias\obj\Debug\net8.0\ref\Dictionary de frecuencias.dll
