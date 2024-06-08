@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Dictionary de frecuencias")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("calculadora de estadisticas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+791688d9596df2230d278a037b8b77502d806086")]
-[assembly: System.Reflection.AssemblyProductAttribute("Dictionary de frecuencias")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Dictionary de frecuencias")]
+[assembly: System.Reflection.AssemblyProductAttribute("calculadora de estadisticas")]
+[assembly: System.Reflection.AssemblyTitleAttribute("calculadora de estadisticas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

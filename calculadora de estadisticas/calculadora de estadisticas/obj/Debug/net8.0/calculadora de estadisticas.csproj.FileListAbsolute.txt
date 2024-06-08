@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Refuerso-de-C#\calculadora de estadisticas\calculadora de estadisticas\bin\Debug\net8.0\calculadora de estadisticas.exe
+C:\Users\Angel\Desktop\Refuerso-de-C#\calculadora de estadisticas\calculadora de estadisticas\bin\Debug\net8.0\calculadora de estadisticas.deps.json
+C:\Users\Angel\Desktop\Refuerso-de-C#\calculadora de estadisticas\calculadora de estadisticas\bin\Debug\net8.0\calculadora de estadisticas.runtimeconfig.json
+C:\Users\Angel\Desktop\Refuerso-de-C#\calculadora de estadisticas\calculadora de estadisticas\bin\Debug\net8.0\calculadora de estadisticas.dll
+C:\Users\Angel\Desktop\Refuerso-de-C#\calculadora de estadisticas\calculadora de estadisticas\bin\Debug\net8.0\calculadora de estadisticas.pdb
+C:\Users\Angel\Desktop\Refuerso-de-C#\calculadora de estadisticas\calculadora de estadisticas\obj\Debug\net8.0\calculadora de estadisticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Refuerso-de-C#\calculadora de estadisticas\calculadora de estadisticas\obj\Debug\net8.0\calculadora de estadisticas.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Refuerso-de-C#\calculadora de estadisticas\calculadora de estadisticas\obj\Debug\net8.0\calculadora de estadisticas.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Refuerso-de-C#\calculadora de estadisticas\calculadora de estadisticas\obj\Debug\net8.0\calculadora de estadisticas.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Refuerso-de-C#\calculadora de estadisticas\calculadora de estadisticas\obj\Debug\net8.0\calculadora de estadisticas.dll
+C:\Users\Angel\Desktop\Refuerso-de-C#\calculadora de estadisticas\calculadora de estadisticas\obj\Debug\net8.0\refint\calculadora de estadisticas.dll
+C:\Users\Angel\Desktop\Refuerso-de-C#\calculadora de estadisticas\calculadora de estadisticas\obj\Debug\net8.0\calculadora de estadisticas.pdb
+C:\Users\Angel\Desktop\Refuerso-de-C#\calculadora de estadisticas\calculadora de estadisticas\obj\Debug\net8.0\calculadora de estadisticas.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Refuerso-de-C#\calculadora de estadisticas\calculadora de estadisticas\obj\Debug\net8.0\ref\calculadora de estadisticas.dll
