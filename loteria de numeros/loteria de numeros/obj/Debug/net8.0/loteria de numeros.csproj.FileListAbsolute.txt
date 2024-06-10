@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Refuerso-de-C#\loteria de numeros\loteria de numeros\bin\Debug\net8.0\loteria de numeros.exe
+C:\Users\Angel\Desktop\Refuerso-de-C#\loteria de numeros\loteria de numeros\bin\Debug\net8.0\loteria de numeros.deps.json
+C:\Users\Angel\Desktop\Refuerso-de-C#\loteria de numeros\loteria de numeros\bin\Debug\net8.0\loteria de numeros.runtimeconfig.json
+C:\Users\Angel\Desktop\Refuerso-de-C#\loteria de numeros\loteria de numeros\bin\Debug\net8.0\loteria de numeros.dll
+C:\Users\Angel\Desktop\Refuerso-de-C#\loteria de numeros\loteria de numeros\bin\Debug\net8.0\loteria de numeros.pdb
+C:\Users\Angel\Desktop\Refuerso-de-C#\loteria de numeros\loteria de numeros\obj\Debug\net8.0\loteria de numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Refuerso-de-C#\loteria de numeros\loteria de numeros\obj\Debug\net8.0\loteria de numeros.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Refuerso-de-C#\loteria de numeros\loteria de numeros\obj\Debug\net8.0\loteria de numeros.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Refuerso-de-C#\loteria de numeros\loteria de numeros\obj\Debug\net8.0\loteria de numeros.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Refuerso-de-C#\loteria de numeros\loteria de numeros\obj\Debug\net8.0\loteria de numeros.dll
+C:\Users\Angel\Desktop\Refuerso-de-C#\loteria de numeros\loteria de numeros\obj\Debug\net8.0\refint\loteria de numeros.dll
+C:\Users\Angel\Desktop\Refuerso-de-C#\loteria de numeros\loteria de numeros\obj\Debug\net8.0\loteria de numeros.pdb
+C:\Users\Angel\Desktop\Refuerso-de-C#\loteria de numeros\loteria de numeros\obj\Debug\net8.0\loteria de numeros.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Refuerso-de-C#\loteria de numeros\loteria de numeros\obj\Debug\net8.0\ref\loteria de numeros.dll
