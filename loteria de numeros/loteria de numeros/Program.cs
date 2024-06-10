@@ -2,23 +2,22 @@
 
 Console.WriteLine("introduce 6 numeros para la loteria entre 1 y 49");
 
-
+int[] numerosGanadores = new int[6];
 Random random = new Random();
-HashSet<int> numerosAleatorios = new HashSet<int>();
 
-while (numerosAleatorios.Count <= 6)
-{
-    int numeroAleatorio = random.Next(1, 49);
-    if (!numerosAleatorios.Contains(numeroAleatorio))
+int numeroG = 0;
+while (numeroG < 6)
+{ int numeroAleatorio = random.Next(1, 50);
+
+    if (!Array.Exists(numerosGanadores, element => element == numeroAleatorio))
     {
-        numerosAleatorios.Add(numeroAleatorio);
+        numerosGanadores[numeroG] = numeroAleatorio;
+        numeroG++;
     }
-    
-};
+}
 
- 
 
-HashSet<int> numerosUsuario = new HashSet<int>(6);
+List<int> numerosUsuario = new List<int>(6);
 
 for (int i = 0; i < 6; i++)
 {
@@ -29,25 +28,38 @@ for (int i = 0; i < 6; i++)
     if (numerosUsuario.Contains(numero))
     {
         numerosUsuario.Add(numero);
+       
     }
+   
 
 }
 
 int aciertos = 0;
 
-foreach (int resultados in numerosUsuario)
+foreach (int numeroGanador in numerosGanadores)
 {
-    if (numerosUsuario.Contains(resultados))
+    if (numerosUsuario.Contains(numeroGanador))
     {
         aciertos++;
+      
     }
-}
-  Console.WriteLine("Número de aciertos: " + aciertos);
 
-  Console.WriteLine("los numeros ganadores son");
-foreach (int numerosGanadores in numerosAleatorios)
+   
+}
+Console.WriteLine($"Número de aciertos: " + aciertos);
+
+Console.WriteLine("Números ganadores:");
+foreach (int loto in numerosGanadores)
 {
-  
- Console.WriteLine($"{numerosGanadores}");
+    Console.WriteLine(loto);
 };
+
+if (aciertos == 6)
+{
+    Console.WriteLine("¡Felicidades! Has acertado todos los números.");
+}
+
+
+
+
 
